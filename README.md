@@ -83,7 +83,7 @@ The word lists and definitions used in this game come from the local CSV file lo
    
 2. **Clone this repository:**
 ```bash
-git clone https://github.com/MohamedHamouda23/Word-games/edit/main/README.md
+https://github.com/MohamedHamouda23/Word-games
 ```
 
 3. **▶️ Run the program**:
