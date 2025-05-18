@@ -80,6 +80,7 @@ The word lists and definitions used in this game come from the local CSV file lo
 
 ## 🚀 How to Run  
 1. **🧰 Make sure you have Python installed** (Python 3.6+ recommended).
+   
 2. **Clone this repository:**
 ```bash
 git clone https://github.com/MohamedHamouda23/Word-games/edit/main/README.md
@@ -87,9 +88,9 @@ git clone https://github.com/MohamedHamouda23/Word-games/edit/main/README.md
 
 3. **▶️ Run the program**:
 
-  ```bash
+```bash
   python3 src/main.py
-  ```
+```
 
 <br>
 
