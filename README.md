@@ -87,9 +87,9 @@ The word lists and definitions used in this game come from the local CSV file lo
 
 3. **▶️ Run the program**:
 
-```bash
-python3 src/main.py
-```
+  ```bash
+  python3 src/main.py
+  ```
 
 <br>
 
